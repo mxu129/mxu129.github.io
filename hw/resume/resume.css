@@ -1,0 +1,25 @@
+
+@import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+
+h1 {
+  color: #ffa07a;
+  font-family:'Anton', sans-serif;
+
+}
+
+h2 {
+  color: #1e90ff;
+  text-decoration: underline;
+  font-style: italic;
+}
+
+.escuela {
+  color: orange;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
+.subtitulos {
+  font-family: 'Lacquer', sans-serif;
+  color: red
+
+}
