@@ -1,9 +1,16 @@
 
 @import url('https://fonts.googleapis.com/css?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
 
+body {
+  width: 960px;
+  margin: 0 auto;
+}
 h1 {
-  color: #ffa07a;
+  color: green;
   font-family:'Anton', sans-serif;
+  background-color: orange;
+  border: 3px solid yellow;
 
 }
 
@@ -17,9 +24,28 @@ h2 {
   color: orange;
 }
 
-@import url('https://fonts.googleapis.com/css?family=Lacquer&display=swap');
 .subtitulos {
   font-family: 'Lacquer', sans-serif;
-  color: red
 
+}
+.imagen {
+  height: 250px;
+  margin: 0 auto;
+  display: block;
+}
+
+.ex {
+  color: pink
+}
+
+a {
+  color: yellow;text-decoration: none;
+  padding: 1px;
+}
+a:hover {
+  background-color: green;
+}
+
+.mm {
+  color: purple;
 }

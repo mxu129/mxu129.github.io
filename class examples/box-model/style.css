@@ -1,0 +1,36 @@
+body {
+  background-color: pink;
+}
+header {
+  background-color: gray;
+  border: 3px solid #f9423a;
+  padding: 30px;
+
+  margin: 50px;
+  height: 400px;
+  width: 400px;
+}
+
+main {
+  height: 100%;
+  width: 100%;
+  background-color: teal;
+  padding: 30px 50px;
+
+}
+
+.wed {
+  background-color: yellow;
+  padding: 40px 20px 10px 100px;
+  margin: -40px 9000px 22px 13px;
+}
+
+footer {
+  background-color: blue;
+  border: 3px solid purple;
+  padding: 30px;
+
+  margin: 50px;
+  height: 400px;
+  width: 400px;
+}
