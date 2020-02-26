@@ -1,0 +1,14 @@
+body{
+  width: 800px;
+}
+.grid-container{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 20px;
+}
+
+.album-1-title {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  
+}
