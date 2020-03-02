@@ -3,6 +3,10 @@ body {
   margin: 0 auto;
 }
 
+section{
+  margin-bottom: 10%;
+
+}
 
 .grid-container-1 {
   display: grid;
@@ -29,4 +33,63 @@ body {
 .g1-img-4 {
   grid-column: 2/3;
   grid-row: 2/3;
+}
+
+.foto {
+  width: 100%;
+}
+.pg {
+  width: 20%;
+}
+
+.grid-container-4 {
+  display: grid;
+  grid-column-gap: 40px
+}
+
+.g4-img {
+  grid-column: 1/2,
+}
+
+.g4-text {
+    grid-column: 2/3;
+}
+
+.grid-container-5{
+  display: grid;
+  grid-column-gap: 40px
+}
+
+.g5-img {
+  grid-column: 1/2,
+}
+
+.g5-text {
+    grid-column: 2/3;
+}
+
+.grid-container-2{
+  display: grid;
+  grid-column-gap: 40px
+}
+
+.g2-img {
+  grid-column: 1/2,
+}
+
+.g2-text {
+    grid-column: 2/3;
+}
+
+.grid-container-3{
+  display: grid;
+  grid-column-gap: 40px
+}
+
+.g3-img {
+  grid-column: 1/2,
+}
+
+.g3-text {
+    grid-column: 2/3;
 }
