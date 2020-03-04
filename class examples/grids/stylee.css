@@ -27,10 +27,6 @@ body {
   margin: 0 auto;
 }
 
-section{
-  margin-bottom: 10%;
-
-}
 
 .grid-container-1 {
   display: grid;
@@ -58,6 +54,7 @@ section{
   grid-column: 2/3;
   grid-row: 2/3;
 }
+<<<<<<< HEAD
 
 .foto {
   width: 100%;
@@ -119,3 +116,5 @@ section{
 }
 
 .
+=======
+>>>>>>> parent of 23b6ede... responsive
