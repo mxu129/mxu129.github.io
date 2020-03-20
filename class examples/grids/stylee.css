@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css?family=Covered+By+Your+Grace&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Monoton&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Simonetta&display=swap');
+
+h1 {
+  color: #6b8e23;
+  font-family: 'Covered By Your Grace';
+}
+
+h2{
+  font-family: 'Monoton';
+  color: #ffff00;
+
+}
+
+body {
+font-family: 'Simonetta';
+  border: 2px solid #ff69b4;
+  padding: 30px;
+
+  margin: 0 auto;
+  height: 30px;
+  width: 1000px;
+}
+body {
+  width: 900px;
+  margin: 0 auto;
+}
+
+
+.grid-container-1 {
+  display: grid;
+
+}
+
+.g1-img-1 {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 2;
+}
+
+.g1-img-2 {
+  grid-column: 2/3;
+  grid-row: 1/2;
+}
+
+.g1-img-3 {
+  grid-column: 1/2;
+  grid-row: 2/3;
+}
+
+.g1-img-4 {
+  grid-column: 2/3;
+  grid-row: 2/3;
+}
+<<<<<<< HEAD
+<<<<<<< HEAD
+
+.foto {
+  width: 100%;
+}
+.pg {
+  width: 20%;
+}
+
+.grid-container-4 {
+  display: grid;
+  grid-column-gap: 40px
+}
+
+.g4-img {
+  grid-column: 1/2,
+}
+
+.g4-text {
+    grid-column: 2/3;
+}
+
+.grid-container-5{
+  display: grid;
+  grid-column-gap: 40px
+}
+
+.g5-img {
+  grid-column: 1/2,
+}
+
+.g5-text {
+    grid-column: 2/3;
+}
+
+.grid-container-2{
+  display: grid;
+  grid-column-gap: 40px
+}
+
+.g2-img {
+  grid-column: 1/2,
+}
+
+.g2-text {
+    grid-column: 2/3;
+}
+
+.grid-container-3{
+  display: grid;
+  grid-column-gap: 40px
+}
+
+.g3-img {
+  grid-column: 1/2,
+}
+
+.g3-text {
+    grid-column: 2/3;
+}
+
+.
+=======
+>>>>>>> parent of 23b6ede... responsive
+=======
+>>>>>>> parent of 23b6ede... responsive
