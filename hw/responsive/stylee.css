@@ -15,22 +15,14 @@ h2{
 
 body {
 font-family: 'Simonetta';
+max-width: 900px;
+margin: 0 auto;
   border: 2px solid #ff69b4;
   padding: 30px;
-
-  margin: 0 auto;
-  height: 30px;
-  width: 1000px;
 }
-body {
-  width: 900px;
-  margin: 0 auto;
-}
-
 
 .grid-container-1 {
   display: grid;
-
 }
 
 .g1-img-1 {
