@@ -1,35 +1,10 @@
 $(document).ready(function() {
   console.log("we loaded");
 
+  $(".foodItem").mouseover(function(){
+    $(".foodItem").css("font-size", "20px");
+    $("h1").html("Your Lucky Day");
 
-  $("#button1").click(function() {
-
-  $("#title").click(function(){
-    $("#title").css("color", "#f9423a");
-    $("#title").css("font-size", "500px");
   });
-
-  $("button2").click(function() {
-    $("title").removeClass("big-text");
-  });
-
-  $("p").mouseover(function() {
-    $("p").css("font-size", "21px");
-  });
-
-$("p")
-  .mouseleave(function()) {
-
-    $("p")
-    .css("font-size", "16px");
-  }
-
-
-});
-
-$("#box").mousedown(function() {
-  $("#box").css(background-color", "green");
-
-});
 
 });

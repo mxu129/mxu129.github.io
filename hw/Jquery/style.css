@@ -1,4 +1,8 @@
-.big-text {
-  color: #f9423a;
-  font-size: 120px;
+video{
+  width:50%;
+  margin: 0 auto;
+}
+
+.foodItem{
+  font-size: 10px;
 }
