@@ -1,8 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+
+
 video{
   width:50%;
   margin: 0 auto;
+  align-content: center;
+  align-items: center;
 }
 
 .foodItem{
   font-size: 10px;
+}
+
+
+
+h1 {
+  color: #8b0000;
+font-family: 'Indie Flower', cursive;
+}
+
+h2{
+font-family: 'Indie Flower', cursive;
+  color: orange;
+
+}
+
+body {
+font-family: 'Simonetta';
+
 }
