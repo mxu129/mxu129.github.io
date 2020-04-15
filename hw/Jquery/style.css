@@ -13,8 +13,10 @@ video{
   font-size: 10px;
 }
 
-
-
+.pg {
+  max-width: 300px;
+  display: none;
+}
 h1 {
   color: #8b0000;
 font-family: 'Indie Flower', cursive;
