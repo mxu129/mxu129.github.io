@@ -3,22 +3,24 @@
 @import url('https://fonts.googleapis.com/css2?family=Acme&family=Staatliches&display=swap');
 
 
+
+
 h1 {
-	color: #ffa500;
-	font-family: 'Anton', sans-serif;
+  color: #ffa500;
+  font-family:'Anton', sans-serif;
 }
 
 h2 {
-	color: #db7093;
-	font-family: 'Acme', sans-serif;
+  color: #db7093;
+  font-family:'Acme', sans-serif;
 }
 
 h3 {
-	color: #98fb98;
+  color: #98fb98;
 }
 
 h4 {
-	font-family: 'Staatliches', cursive;
+  font-family: 'Staatliches', cursive;
 }
 
 
@@ -32,6 +34,7 @@ img {
 }
 
 .grid-container-1 {
+
 	display: grid;
 	grid-column-gap: 20px;
 
@@ -53,8 +56,10 @@ img {
 }
 
 .grid-container-2 {
+    background-color: #fafad2;
 	display: grid;
 	grid-column-gap: 20px;
+
 }
 
 .grid2-hed {
@@ -65,10 +70,7 @@ img {
 .grid2-photo {
 	grid-column: 1/2;
 	grid-row: 2/3;
-	text-align: center;
-	margin: 0 auto;
 }
-
 
 .grid2-text {
 	grid-column: 2/3;
@@ -76,6 +78,7 @@ img {
 }
 
 .grid-container-3 {
+
 	display: grid;
 	grid-row-gap: 20px;
 	grid-column-gap: 50px;
@@ -87,6 +90,7 @@ img {
 }
 
 .grid3-photo {
+  margin: auto;
 	grid-column: 1/2;
 	grid-row: 2/3;
 }
@@ -102,6 +106,7 @@ img {
 }
 
 .grid-container-4 {
+  background-color: #fafad2;
 	display: grid;
 	grid-row-gap: 20px;
 	grid-column-gap: 50px;

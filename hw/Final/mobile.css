@@ -18,4 +18,46 @@
     grid-column: 1/2;
     grid-row: 3/4;
   }
+
+  .grid-container-2 {
+    grid-row-gap: 20px;
+  }
+
+  .grid2-hed {
+    grid-column: 1/2;
+    grid-row: 1/2;
+  }
+
+  .grid2-photo {
+    grid-column: 1/2;
+    grid-row: 2/3;
+  }
+
+  .grid2-text {
+    grid-column: 1/2;
+    grid-row: 3/4;
+  }
+
+  .grid-container-3 {
+    grid-row-gap: 20px;
+  }
+
+  .grid3-hed {
+    grid-column: 1/2;
+    grid-row: 1/2;
+  }
+
+  .grid3-photo {
+    grid-column: 1/2;
+    grid-row: 2/3;
+  }
+
+  .grid3-text {
+    grid-column: 1/2;
+    grid-row: 3/4;
+  }
+
+  .grid3-contact {
+    grid-column: 0/2;
+  	grid-row: 4/5;
 }
